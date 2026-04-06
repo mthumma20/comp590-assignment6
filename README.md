@@ -1,11 +1,4 @@
 
----
-
-## `reflection.md`
-
-This gives you a strong draft you can personalize with your own wording and code references once your files are final.
-
-```md
 # Reflection — Sleeping Barber in Elixir and Go
 
 ## 1. Process identity
