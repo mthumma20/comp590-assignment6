@@ -1,3 +1,5 @@
+Bennett Rakower, Tracy Dang, Megha Thumma
+
 
 # Reflection — Sleeping Barber in Elixir and Go
 
